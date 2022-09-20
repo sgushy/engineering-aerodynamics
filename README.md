@@ -1,6 +1,7 @@
 # engineering-aerodynamics
-<p>This repository contains my course project(s) for the ME 163 - Engineering Aerodynamics. The 4 projects of this class involved simulation of airfoils and helicopter rotor characteristics in various situations. Please see below for descriptions of each project.</p>
+<img src="https://user-images.githubusercontent.com/113747791/191176184-a6117c5b-eb54-4d7b-aef6-3f2cd7981000.png" width=100%>
 
+<p>This repository contains my course project(s) for the ME 163 - Engineering Aerodynamics. The 4 projects of this class involved simulation of airfoils and helicopter rotor characteristics in various situations. Please see below for descriptions of each project.</p>
 
 <p>Reports of each project can be found below:</p>
 <ul>
