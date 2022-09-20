@@ -7,8 +7,9 @@
 
 <p>Reports of each project can be found below:</p>
 <ul>
-  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604360/ME_163_Project_1.2.pdf">Project 1</a></li>
-  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604361/ME_163_Project_2.pdf">Project 2</a></li>
-  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604362/ME_163_Project_3.pdf">Project 3</a></li>
-  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604363/ME_163_Final_Project-1.pdf">Project 4</a></li>
+  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604360/ME_163_Project_1.2.pdf">Project 1</a> - Prediction and Simulation of Point Vortex Movement</li>
+  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604361/ME_163_Project_2.pdf">Project 2</a> - Vortex Panel and Thwaites’ Method for Airfoil Analysis</li>
+  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604362/ME_163_Project_3.pdf">Project 3</a> - Application of Vortex Panel and Thwaites’ Method for
+Analysis of NACA 0012 and NACA 4412 Airfoils</li>
+  <li><a href="https://github.com/sgushy/engineering-aerodynamics/files/9604363/ME_163_Final_Project-1.pdf">Project 4</a> - Proof of Concept of a Concentric Coplanar Rotor</li>
 </ul>
